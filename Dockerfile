@@ -1,4 +1,4 @@
-FROM debian:jessie
+FROM debian:stretch
 MAINTAINER Cosmin-Romeo TANASE <tanasecosminromeo@gmail.com>
 
 RUN apt-get update && \
